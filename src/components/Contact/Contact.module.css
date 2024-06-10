@@ -1,0 +1,18 @@
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid #000;
+  border-radius: 10px;
+  padding: 16px;
+  min-width: 300px;
+  height: 80px;
+
+  font-family: "Montserrat-Bold";
+}
+.info {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0;
+}

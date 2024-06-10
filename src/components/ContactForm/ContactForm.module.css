@@ -1,0 +1,28 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 2px solid #000;
+  border-radius: 8px;
+  padding: 0 16px 16px 16px;
+  width: 280px;
+  margin-bottom: 24px;
+  height: 24 0px;
+}
+
+.button {
+  width: 120px;
+  align-self: center;
+  margin-top: 16px;
+}
+.message {
+  color: red;
+  font-style: 14px;
+}
+label {
+  margin-bottom: 0;
+  margin-top: 16px;
+}
+.input {
+  margin-bottom: 0;
+}
